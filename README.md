@@ -11,3 +11,7 @@ Este repositorio contiene la documentación y planificación del proyecto Hilos 
 - [Colaboradores y Expansión](Colaboradores_y_Expansión.md)
 - [Conexiones con Locales y Modelo de Negocio](Conexiones_con_Locales_y_Modelo_de_Negocio.md)
 - [Recorridos Educativos y Red Social](Recorridos_Educativos_y_Red_Social.md) 
+
+
+##Follow the conversation:
+https://chatgpt.com/g/g-p-67f1b56b879c81918170ec9e875ebd0f-music-project/c/67f1a052-af0c-800e-bc6d-01b56845ad67
