@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"61aa2db787acde35","x":-346,"y":-205,"width":400,"height":400,"color":"3","type":"file","file":"Recorridos_Educativos_y_Red_Social.md"},
+		{"id":"1206b9eac62f4752","x":80,"y":-205,"width":400,"height":400,"color":"4","type":"file","file":"Colaboradores_y_Expansión.md"},
+		{"id":"42dc62919a43708f","x":360,"y":240,"width":400,"height":400,"color":"4","type":"file","file":"Ciclos_Tematicos_y_Experiencias.md"},
+		{"id":"180ab7f899611a21","x":780,"y":240,"width":400,"height":400,"type":"file","file":"Branding_Musical_y_Segmentacion.md"},
+		{"id":"0fe9da320c1f5bb0","x":1200,"y":240,"width":400,"height":400,"color":"5","type":"file","file":"Bases_de_Datos_y_Analisis_Sonoro.md"},
+		{"id":"aca6d90e03e60316","x":560,"y":-205,"width":400,"height":400,"color":"5","type":"file","file":"Conexiones_con_Locales_y_Modelo_de_Negocio.md"}
+	],
+	"edges":[]
+}
