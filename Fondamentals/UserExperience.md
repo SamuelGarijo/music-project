@@ -5,7 +5,7 @@ El proyecto propone dos experiencias clave:
 
 ## 1. Cliente que escucha la música en el local
 - Escucha playlists o selecciones musicales que cambian según la hora del día, la intensidad o el estado de ánimo.
-- Puede toparse con **ciclos temáticos** (ver [[Ciclos_Tematicos_y_Experiencias]]) que promueven artistas o géneros específicos.
+- Puede toparse con **ciclos temáticos** (ver [[CiclosTematicos]]) que promueven artistas o géneros específicos.
 
 ## 2. Dueño del establecimiento
 - Una interfaz sencilla (dashboard) que le permite ajustar la atmósfera usando **controles de filtrado** (BPM, energía, etc.); ver también la base conceptual en [[Bases_de_Datos_y_Analisis_Sonoro]].
@@ -14,5 +14,5 @@ El proyecto propone dos experiencias clave:
 
 ## Contenidos relacionados
 - [[README]] para una visión general.
-- [[Conexiones_con_Locales_y_Modelo_de_Negocio]] sobre cómo monetizar y formalizar la propuesta.
+- [[ConnectLocals]] sobre cómo monetizar y formalizar la propuesta.
 - [[DynamicPlaylist]] (nuevo) para ver la lógica de playlists que se actualizan en tiempo real.

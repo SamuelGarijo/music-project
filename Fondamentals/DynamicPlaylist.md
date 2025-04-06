@@ -10,7 +10,7 @@ El concepto de "cola dinámica" consiste en reemplazar o actualizar la lista de 
    - Llamar a `/v1/me/player/play` con la nueva lista filtrada, tal como describe [[SpotifyIntegration]].
 3. **Modos de uso**:  
    - "Normal": reproduce un conjunto de canciones según energía/BPM.  
-   - "Temático": añade la restricción de artista o género (ej.: "Ciclo The Doors"), relacionado con [[Ciclos_Tematicos_y_Experiencias]].
+   - "Temático": añade la restricción de artista o género (ej.: "Ciclo The Doors"), relacionado con [[CiclosTematicos]].
 
 ## Ajustes dinámicos de atmósfera
 - **Sliders**: Volumen, energía, densidad musical, etc.
@@ -19,4 +19,3 @@ El concepto de "cola dinámica" consiste en reemplazar o actualizar la lista de 
 ## Referencias
 - [[TechnicalArchitecture]] para entender dónde se gestiona la lógica de la cola.
 - [[PrototypeSteps]] para la implementación paso a paso.
-- [[Recorridos_Educativos_y_Red_Social]] si consideras expandir a una plataforma social que genere playlists colaborativas.

@@ -20,9 +20,9 @@ Guía rápida para construir un **MVP** (Producto Mínimo Viable) que combine lo
    - Llamar al endpoint `/v1/me/player/play` cuando cambien los sliders (ver también [[DynamicPlaylist]]).
 
 5. **Test con ciclos temáticos**  
-   - Añadir modo "Ciclo Temático" (ej.: "Semana de Miles Davis"), tomando ideas de [[Ciclos_Tematicos_y_Experiencias]].  
+   - Añadir modo "Ciclo Temático" (ej.: "Semana de Miles Davis"), tomando ideas de [[CiclosTematicos]].  
    - Ver feedback en un entorno pequeño (1-2 locales).
 
 **Otras referencias**:
 - [[UserExperience]] para entender a quién va dirigido.
-- [[Conexiones_con_Locales_y_Modelo_de_Negocio]] si quieres darle forma comercial.
+- [[ConnectLocals]] si quieres darle forma comercial.

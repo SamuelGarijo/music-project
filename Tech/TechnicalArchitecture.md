@@ -11,7 +11,7 @@ Este documento describe la arquitectura tecnológica básica que soporta el proy
    - Opción de **cachear** datos en un archivo JSON o en una BD (ej. Supabase), de acuerdo a la escala.
 
 3. **Generador de playlists**:  
-   - Sistema que filtra canciones según criterios de branding musical (ver [[Branding_Musical_y_Segmentacion]]) y eventos especiales (ver [[Ciclos_Tematicos_y_Experiencias]]).
+   - Sistema que filtra canciones según criterios de branding musical (ver [[Branding_Musical_y_Segmentacion]]) y eventos especiales (ver [[CiclosTematicos]]).
    - Ajustable mediante sliders de energía, BPM y más (ver [[DynamicPlaylist]]).
 
 4. **Interfaz y reproductor**:  

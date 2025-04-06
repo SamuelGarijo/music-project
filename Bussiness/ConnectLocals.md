@@ -9,7 +9,3 @@ La propuesta puede atraer a bares y restaurantes que deseen:
 Al mismo tiempo, los usuarios de la aplicación (amantes de la música) tendrían acceso a:
 - Información de qué locales están reproduciendo determinado artista o género.
 - Un modo de conectar físicamente con el contenido musical que siguen online.
-
-> **Referencias**:
-> - [[Recorridos_Educativos_y_Red_Social]]
-> - [[README]]

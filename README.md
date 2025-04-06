@@ -14,8 +14,7 @@ Este proyecto busca **culturizar al público** a través de música de calidad e
 - Para una descripción previa de la visión general, consulta este mismo documento.
 - [[Bases_de_Datos_y_Analisis_Sonoro]] para ver el punto de partida en la extracción y clasificación de datos de las canciones.
 - [[Branding_Musical_y_Segmentacion]] para profundizar en cómo adaptar la música a la identidad de cada local.
-- [[Ciclos_Tematicos_y_Experiencias]] si quieres ver cómo se han planteado semanas temáticas y eventos especiales.
-- [[Recorridos_Educativos_y_Red_Social]] en caso de querer integrar la dimensión social y formativa.
+- [[CiclosTematicos]] si quieres ver cómo se han planteado semanas temáticas y eventos especiales.
 - [[TechnicalArchitecture]] (nuevo) para una descripción tecnológica más detallada.
 - [[DynamicPlaylist]] (nuevo) para entender la lógica de colas musicales dinámicas.
 - [[CulturalStrategy]] (nuevo) sobre la propuesta de semanas temáticas e inmersión cultural.

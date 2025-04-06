@@ -6,7 +6,7 @@ Este archivo detalla cómo incorporar la reproducción y autenticación de Spoti
 ## 1. Autenticación OAuth
 - Registrar una app en [Spotify Developer](https://developer.spotify.com/dashboard).
 - Obtener `access_token` y `refresh_token` del usuario.
-- Referencia: si en [[Colaboradores_y_Expansión]] planeas incluir un desarrollador experto, esto es parte de sus tareas.
+- Referencia: si en [[Collaborators]] planeas incluir un desarrollador experto, esto es parte de sus tareas.
 
 ## 2. Web Playback SDK
 - Incluir `<script src="https://sdk.scdn.co/spotify-player.js"></script>`.

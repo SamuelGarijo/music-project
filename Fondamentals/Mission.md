@@ -9,6 +9,6 @@ La **misión** fundamental es "culturizar" a la gente a través de la música y 
 
 **Contenido relacionado:**
 - [[README]] para la visión inicial de esta misión.
-- [[Colaboradores_y_Expansión]] donde hablamos de cómo involucrar más gente y expandir la idea.
-- [[Conexiones_con_Locales_y_Modelo_de_Negocio]] para ver cómo encaja la suscripción y el modelo legal.
+- [[Collaborators]] donde hablamos de cómo involucrar más gente y expandir la idea.
+- [[ConnectLocals]] para ver cómo encaja la suscripción y el modelo legal.
 - [[CulturalStrategy]] (nuevo) para detalles sobre la dimensión cultural.

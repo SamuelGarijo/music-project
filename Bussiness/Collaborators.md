@@ -30,8 +30,7 @@ El objetivo es encontrar personas interesadas en un proyecto tipo startup, sin e
 - **Modelo de negocio**: todavía por definir, aunque se contempla suscripción + venta de servicios de branding musical.
 
 ## Referencias a otras notas
-- [[Conexiones_con_Locales_y_Modelo_de_Negocio]] (posible estrategia de monetización y vinculación con bares).
-- [[Recorridos_Educativos_y_Red_Social]] (idea de la plataforma en la que la gente comparte álbumes, avanza en el descubrimiento, etc.).
+- [[ConnectLocals]] (posible estrategia de monetización y vinculación con bares).
 
 
 # Colaboradores y Expansión
