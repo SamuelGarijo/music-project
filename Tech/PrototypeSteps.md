@@ -1,4 +1,5 @@
 # Prototype Steps
+Tags: #mvp #implementacion #desarrollo #tecnologia #integracion
 
 Guía rápida para construir un **MVP** (Producto Mínimo Viable) que combine los viejos conceptos (base de datos de canciones, branding musical, etc.) y los nuevos (playlists dinámicas, licencias).
 
@@ -12,17 +13,16 @@ Guía rápida para construir un **MVP** (Producto Mínimo Viable) que combine lo
 
 3. **Diseño del dashboard**  
    - Crear sliders (BPM, energía, etc.) para filtrar canciones.  
-   - Integrar conceptos de [[Branding_Musical_y_Segmentacion]] (por ejemplo, “bar retro” = rock 60s con poca energía por la mañana).
+   - Integrar conceptos de [[Branding_Musical_y_Segmentacion]] (por ejemplo, "bar retro" = rock 60s con poca energía por la mañana).
 
 4. **Reproductor con Spotify**  
    - Implementar [[SpotifyIntegration]] para reproducir las pistas directamente en el navegador.  
    - Llamar al endpoint `/v1/me/player/play` cuando cambien los sliders (ver también [[DynamicPlaylist]]).
 
 5. **Test con ciclos temáticos**  
-   - Añadir modo “Ciclo Temático” (ej.: “Semana de Miles Davis”), tomando ideas de [[Ciclos_Tematicos_y_Experiencias]].  
+   - Añadir modo "Ciclo Temático" (ej.: "Semana de Miles Davis"), tomando ideas de [[Ciclos_Tematicos_y_Experiencias]].  
    - Ver feedback en un entorno pequeño (1-2 locales).
 
 **Otras referencias**:
-- [[ProjectOverview]] para la visión global del MVP.
 - [[UserExperience]] para entender a quién va dirigido.
 - [[Conexiones_con_Locales_y_Modelo_de_Negocio]] si quieres darle forma comercial.

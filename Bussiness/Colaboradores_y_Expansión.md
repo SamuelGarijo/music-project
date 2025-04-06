@@ -1,5 +1,5 @@
 # Colaboradores y Expansión
-Tags: #colaboradores #startup #expansion #legalidad #nuevas-ideas
+Tags: #colaboradores #startup #expansion #legalidad #negocio
 
 El objetivo es encontrar personas interesadas en un proyecto tipo startup, sin esperar beneficios inmediatos, para:
 - Desarrollar una aplicación que se use en locales públicos (bares, restaurantes, tiendas).
@@ -10,13 +10,13 @@ El objetivo es encontrar personas interesadas en un proyecto tipo startup, sin e
 ## Búsqueda de colaboradores
 - Necesitamos **expertos en música** con pasión por transmitir conocimientos.
 - También desarrolladores que puedan integrar legalmente la música en la app (Soundtrack Your Brand u otras licencias).
-- Gente interesada en UX para la aplicación y en la parte de “recorridos de aprendizaje musical”.
+- Gente interesada en UX para la aplicación y en la parte de "recorridos de aprendizaje musical".
 
 ## Visión de producto (dos aplicaciones conectadas)
 1. **Aplicación 1 (para locales)**:
    - Selección de música legal.
    - Integrada con sistemas de cobro de derechos de autor.
-   - Herramienta para planificar “ciclos” y “eventos” musicales.
+   - Herramienta para planificar "ciclos" y "eventos" musicales.
 2. **Aplicación 2 (para usuarios particulares)**:
    - Recorrido de aprendizaje de géneros musicales (jazz, rock, blues...).
    - Gestión de tus avances, anotaciones personales, etc.

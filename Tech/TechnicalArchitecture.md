@@ -1,4 +1,5 @@
 # Technical Architecture
+Tags: #tecnologia #arquitectura #desarrollo #api #integracion
 
 Este documento describe la arquitectura tecnológica básica que soporta el proyecto. Integra ideas anteriores sobre bases de datos y análisis sonoro con la nueva lógica de **playlists dinámicas**.
 

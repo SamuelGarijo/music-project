@@ -1,4 +1,5 @@
 # Spotify Integration
+Tags: #api #integracion #tecnologia #desarrollo #playlists
 
 Este archivo detalla cómo incorporar la reproducción y autenticación de Spotify en nuestro proyecto, aprovechando la estrategia descrita en [[Bases_de_Datos_y_Analisis_Sonoro]] para obtener metadatos.
 
@@ -13,7 +14,7 @@ Este archivo detalla cómo incorporar la reproducción y autenticación de Spoti
 - Permite reproducir playlists generadas en tiempo real (ver [[DynamicPlaylist]]).
 
 ## 3. Endpoints de la API
-- `/v1/me/player/play`: Inicia reproducción en el “device” del SDK.
+- `/v1/me/player/play`: Inicia reproducción en el "device" del SDK.
 - `/v1/audio-features`: Obtiene BPM, energy, danceability, etc. (parte esencial de [[Bases_de_Datos_y_Analisis_Sonoro]]).
 
 ## Referencias adicionales

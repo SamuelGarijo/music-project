@@ -1,5 +1,5 @@
 # Conexiones con Locales y Modelo de Negocio
-Tags: #negocio #conexiones #estrategia
+Tags: #negocio #conexiones #estrategia #monetizacion #bares
 
 La propuesta puede atraer a bares y restaurantes que deseen:
 - Optimizar su identidad musical.
@@ -12,4 +12,4 @@ Al mismo tiempo, los usuarios de la aplicación (amantes de la música) tendría
 
 > **Referencias**:
 > - [[Recorridos_Educativos_y_Red_Social]]
-> - [[Proyecto_Hilos_Musicales]]
+> - [[README]]

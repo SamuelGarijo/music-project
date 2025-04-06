@@ -1,5 +1,5 @@
 # Branding Musical y Segmentación
-Tags: #branding #identidad #segmentacion
+Tags: #branding #identidad #segmentacion #musica #estrategia
 
 Uno de los pilares del proyecto es:
 1. Definir la **identidad de la marca** (por ejemplo, bares con masculinidad acentuada).
@@ -14,4 +14,4 @@ Ejemplo:
 
 > **Referencias**:
 > - [[Bases_de_Datos_y_Analisis_Sonoro]] (posible análisis de características de audio).
-> - [[Proyecto_Hilos_Musicales]]
+> - [[README]]
