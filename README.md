@@ -13,6 +13,8 @@ Este proyecto busca **culturizar al público** a través de música de calidad e
 
 - Para una descripción previa de la visión general, consulta este mismo documento.
 - [[Bases_de_Datos_y_Analisis_Sonoro]] para ver el punto de partida en la extracción y clasificación de datos de las canciones.
+- [[ADN_Sonoro]] para entender el concepto central de la "huella musical" que define nuestro enfoque.
+- [[TunelesMusicales]] para comprender cómo creamos experiencias musicales dinámicas a partir del ADN Sonoro.
 - [[Branding_Musical_y_Segmentacion]] para profundizar en cómo adaptar la música a la identidad de cada local.
 - [[CiclosTematicos]] si quieres ver cómo se han planteado semanas temáticas y eventos especiales.
 - [[TechnicalArchitecture]] (nuevo) para una descripción tecnológica más detallada.

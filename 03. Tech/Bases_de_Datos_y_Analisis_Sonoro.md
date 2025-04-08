@@ -9,4 +9,5 @@ Estas funcionalidades permitían segmentar canciones según propiedades sonoras 
 
 > **Referencias**:  
 > - [[README]] para visión general.  
+> - [[ADN_Sonoro]] para entender cómo estos datos técnicos forman parte de la huella sonora.
 > - [Exportify (repositorio en GitHub)](https://github.com/ ) - *(Recuerda poner el enlace correcto si lo encuentras)*
